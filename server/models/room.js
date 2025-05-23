@@ -1,6 +1,4 @@
 import mongoose from "mongoose";
-// mongoose.connect('mongodb+srv://gupta2002akshat:nz1K1EW7ta2eTyFE@akshat.muoamja.mongodb.net/');
-
 const { Schema } = mongoose;
 const roomSchema = new Schema({
   name: {
